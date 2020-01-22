@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  flex: 1;
+  margin: 60px;
+  padding: 100px 50px;
+  border-radius: 15px;
+  height: 400px;
+  background-color: #fff;
+}
+
+button {
+  margin: 3px;
+  border-radius: 15px;
+  height: 40px;
+  background-color: dodgerblue;
+}
+.acerto{
+  background-color: forestgreen
+}
+p{
+  font-family: Bebas Neue;
+  font-size: 30px;
+}
+span{
+  color: rgb(243, 8, 8);
+  font-size: 35px;
+}
+.Fim{
+  font-family: sans-serif;
+  text-align: center;
+  flex: 1;
+  margin: 60px;
+  padding: 100px 50px;
+  border-radius: 15px;
+  height: 400px;
+  background-color: #fff;
+}
+body {
+  background-color: dodgerblue;
+
+}
